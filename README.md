@@ -50,7 +50,7 @@ Mapping documentation is provided in the `docs/` directory showing how each play
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ansible-stig-cmmc.git
+   git clone https://github.com/NAHGTWA/ansible-stig-cmmc.git
    cd ansible-stig-cmmc
    ```
 
