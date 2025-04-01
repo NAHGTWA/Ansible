@@ -1,5 +1,5 @@
 # Ansible Playbooks for STIG Compliance and CMMC 2.0
-
+## Changes only matter to me, but it would be cool if you liked them too!
 ## Overview
 
 This repository contains a collection of Ansible playbooks designed to automate the implementation of Security Technical Implementation Guides (STIGs) and Cybersecurity Maturity Model Certification (CMMC 2.0) requirements across various systems.
